@@ -28,4 +28,4 @@ PostgreSQL, DBeaver, PostGIS, Git
 
 ## Дата
 
-Июнь 2026
+Июль 2026
